@@ -142,7 +142,7 @@ export default function Home() {
 
   return (
     <div className="app">
-      <h2>🎧 Listening Practice</h2>
+      <h2>🎧 Listen & Speak</h2>
 
       <div className="card">
         <label>Practice list</label>
