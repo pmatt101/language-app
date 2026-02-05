@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Listening Practice",
+  title: "Listening & Repeat",
   description: "Listening practice app",
 };
 
